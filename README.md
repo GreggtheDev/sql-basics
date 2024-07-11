@@ -1,1 +1,6 @@
-# sql-basics
+-- Reflection
+-- In this assignment, I learned how to create and manipulate a SQLite database using SQL queries. 
+-- It was interesting to see how data can be structured and managed efficiently. 
+-- One challenge I faced was ensuring the correct syntax for each SQL command, especially when updating and deleting records. 
+-- Another challenge was figuring out the correct steps to take since the ones provided were outdated.
+-- This exercise helped reinforce my understanding of database operations and their importance in software development.
